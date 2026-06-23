@@ -1,2 +1,2 @@
-# Assignment13,14,15 & 16
+# Assignments
 All Assignments (RID034)
